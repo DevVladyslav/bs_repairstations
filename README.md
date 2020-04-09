@@ -10,4 +10,4 @@
 
 [mythic_progbar](https://github.com/mythicrp/mythic_progbar)
 
-DISCORD: httpsL//discord.gg/agwmsrN
+DISCORD: https//discord.gg/agwmsrN
